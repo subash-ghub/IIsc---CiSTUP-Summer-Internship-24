@@ -4,5 +4,5 @@
 - Download and install Docker from the official website: https://www.docker.com/get-started
 - Clone this repository.
 - Navigate to the root directory of the cloned repository.
-- Run the below command to build and start the Docker containers:
+- Run the below command to build and start the Docker containers: <br>
   docker-compose up --build
