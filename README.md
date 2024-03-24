@@ -1,2 +1,2 @@
-## IIsc-CiSTUP-Summer-Internship-24
-# USAGE GUIDE
+# IIsc-CiSTUP-Summer-Internship-24
+## USAGE GUIDE
