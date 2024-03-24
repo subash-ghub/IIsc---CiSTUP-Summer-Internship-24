@@ -9,7 +9,6 @@
  
 https://github.com/subash-ghub/IIsc---CiSTUP-Summer-Internship-24/assets/104593776/1d2f5e0a-a14a-4019-bbf1-33475ab4d2ef
 
-For better visiblity - https://drive.google.com/file/d/1FpNLmuhAdj8I90FJkG3xPVUVka4H9WTF/view?usp=sharing
 # Process Flow:
  * Step 1: Upload the image
  * Step 2: Wait until the image is detected
