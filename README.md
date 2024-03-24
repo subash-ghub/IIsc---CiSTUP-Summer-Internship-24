@@ -26,6 +26,7 @@
 ## USAGE GUIDE
 - Download and install Docker from the official website: https://www.docker.com/get-started
 - Clone this repository.
+- Before running and executing, here it requires us to download the best.pt file (backend) from the drive link : https://drive.google.com/file/d/1tvamtH7IIW8IetibJ5oDffMVAFoRiKp_/view?usp=sharing
 - Navigate to the root directory of the cloned repository.
 - Run the below command to build and start the Docker containers: <br>
   docker-compose up --build
