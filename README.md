@@ -1,5 +1,8 @@
 # IIsc-CiSTUP-Summer-Internship-24
 ## Goal: Develop a web-based application that enables users to upload transportation-related images (such as traffic camera images) and perform object detection on those images.
+<div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>
 ## USAGE GUIDE
 - Download and install Docker from the official website: https://www.docker.com/get-started
 - Clone this repository.
