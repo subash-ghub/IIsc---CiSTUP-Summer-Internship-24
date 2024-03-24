@@ -30,4 +30,4 @@
 - Navigate to the root directory of the cloned repository.
 - Run the below command to build and start the Docker containers: <br>
   docker-compose up --build
-- After running, we can access the web application in our browser at http://localhost:3000.
+- After running, we can access the web application in our browser at http://localhost:5173.
