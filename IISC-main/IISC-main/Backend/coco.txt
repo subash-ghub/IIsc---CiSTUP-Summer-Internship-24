@@ -1,0 +1,6 @@
+bus
+car
+microbus
+motorbike
+pickup-van
+truck
