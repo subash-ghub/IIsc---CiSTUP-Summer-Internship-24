@@ -8,7 +8,8 @@
  * Step 1: Upload the image
  * Step 2: Wait until the image is detected
  * Step 3: Download the detected image  
-![image](https://github.com/subash-ghub/IIsc---CiSTUP-Summer-Internship-24/assets/104593776/b3dba639-67a9-4f24-99d3-461154a4338e) <br>
+![image](https://github.com/subash-ghub/IIsc---CiSTUP-Summer-Internship-24/assets/104593776/b3dba639-67a9-4f24-99d3-461154a4338e) <br> ![image](https://github.com/subash-ghub/IIsc---CiSTUP-Summer-Internship-24/assets/104593776/c81284a0-e9f9-41bc-9ca8-3d869d872c81)
+
 
 
 
